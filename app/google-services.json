@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768044847124",
+    "firebase_url": "https://ygs-lysrehberlik.firebaseio.com",
+    "project_id": "ygs-lysrehberlik",
+    "storage_bucket": "ygs-lysrehberlik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768044847124:android:1a1fc6b5ea94391b",
+        "android_client_info": {
+          "package_name": "rehberlik.uysal.okan.ygs_lysrehberlik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768044847124-r1b47eabav8khnel3j2qb7ko61plvf6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rehberlik.uysal.okan.ygs_lysrehberlik",
+            "certificate_hash": "0237696f96680db89c456e8d1e1669e29925acbb"
+          }
+        },
+        {
+          "client_id": "768044847124-cbaghe8u7ovrkf3l9o93sptml77jgtco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3y2AvyfUH5A7aTytvBAkEAwrm_gK-8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768044847124-cbaghe8u7ovrkf3l9o93sptml77jgtco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
